@@ -4,3 +4,4 @@
 # Timing functions, planos y ejes
 # Transform translate
 # Transform rotate, scale, skew y matrix
+# Tranform origin
