@@ -8,3 +8,4 @@
 # Transform style y perspective
 # Backface visibility
 # Efecto parallax: estrutura HTML
+# Transition property y duration
